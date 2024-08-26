@@ -13,13 +13,13 @@ function App() {
       </div>
       <h1>Code for Bihoku</h1>
       <p className="read-the-docs">オープンデータ・テクノロジーで広島県備北地域の街づくり。</p>
-      <a href="https://github.com/code4bihoku" target="_blank">
+      <a href="https://github.com/code4bihoku" target="_self">
        <img src={githubLogo} className="logo2" alt="github logo" />
       </a>
-      <a href="https://www.youtube.com/@CodeForBihoku-g7p" target="_blank">
+      <a href="https://www.youtube.com/@CodeForBihoku-g7p" target="_self">
         <img src={youtubeLogo} className="logo2" alt="YouTube logo" />
       </a>
-      <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_blank">
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_self">
         <img src={bysaLogo} className="logo2" alt="CC by SA 4.0 logo" />
       </a>
     </>

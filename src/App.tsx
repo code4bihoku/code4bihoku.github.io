@@ -11,7 +11,7 @@ function App() {
         <img src={c4bLogo} className="logo" alt="Code for Bihoku logo" />
       </div>
       <h1>Code for Bihoku</h1>
-      <p className="read-the-docs">オープンデータ・テクノロジーで街づくり。</p>
+      <p className="read-the-docs">オープンデータ・テクノロジーで広島県備北地域の街づくり。</p>
       <a href="https://github.com/code4bihoku" target="_blank">
        <img src={githubLogo} className="logo2" alt="github logo" />
       </a>

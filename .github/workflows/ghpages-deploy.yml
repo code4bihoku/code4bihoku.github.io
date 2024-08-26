@@ -1,4 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
+# https://zenn.dev/drumath2237/articles/13c51f94b3e513
 name: Deploy
 
 on:

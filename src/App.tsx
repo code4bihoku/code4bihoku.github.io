@@ -12,7 +12,7 @@ function App() {
       <h1>Code for Bihoku</h1>
       <p className="read-the-docs">オープンデータ・テクノロジーで街づくり。</p>
       <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" target="_blank">
-        <img src={bysaLogo} className="logo" alt="Code for Bihoku logo" />
+        <img src={bysaLogo} className="logo2" alt="Code for Bihoku logo" />
       </a>
     </>
   )

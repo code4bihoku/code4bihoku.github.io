@@ -3,7 +3,7 @@ import bysaLogo from './assets/by-sa.svg'
 import githubLogo from './assets/github-mark-white.svg'
 import osmLogo from './assets/Openstreetmap_logo.svg'
 import youtubeLogo from './assets/YouTube_light_icon_2017.svg'
-import facebookLogo from './sssets/Facebook_Logo_Secondary.svg'
+import facebookLogo from './assets/Facebook_Logo_Secondary.svg'
 import c4bLogo from '/c4b.svg'
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
       <a href="https://github.com/code4bihoku" target="_self">
         <img src={githubLogo} className="logo2" alt="github logo" />
       </a>
-      <a>
+      <a href="https://www.facebook.com/CodeForBihoku" target="_self">
         <img src={facebookLogo} className="logo2" alt="FaceBook logo" />
       </a>
       <a href="https://www.youtube.com/@CodeForBihoku-g7p" target="_self">
